@@ -1,0 +1,8 @@
+-------------- SAQUE --------------
+CPF: 005.698.101-03
+Conta: 5495787-2
+Valor do saque: R$ 555.0
+Valor da tarifa: R$ 0,10.
+Operação realizada em 17/09/2023 22:00:17
+------------ FIM SAQUE ------------
+

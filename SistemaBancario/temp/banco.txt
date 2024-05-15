@@ -1,0 +1,24 @@
+Corrente;1001234-5;0001;125.992.187-33;1235;20000.00;10000.00;
+Corrente;1215211-7;0004;142.983.362-11;8235;10000.00;1000.00;
+Corrente;3523456-1;0001;002.742.017-12;7243;100000.00;5000.00;
+Corrente;5495787-2;4146;005.698.101-03;9022;300000.00;15000.00
+Corrente;9176807-3;0004;102.555.232-01;1220;2000.00;500.00;
+Poupança;0001234-5;0001;125.992.187-33;1235;50000.00;
+Poupança;8115211-7;0004;132.982.162-21;8235;100.00;
+Poupança;0123456-1;0001;006.732.007-02;7243;20000.00;
+Poupança;7695787-2;4146;005.632.102-03;9022;5000.00;
+Poupança;7876807-3;0004;102.555.232-01;1220;300.00;
+Cliente;Maria do Carmo;125.992.187-33;maria@gmail.com;
+Cliente;Daniel Oliveira;142.983.362-11;daniel@gmail.com;
+Cliente;João Damasceno;002.742.017-12;joao@gmail.com;
+Cliente;Clara Camargo;005.698.101-03;clara@gmail.com;
+Cliente;José Medeiros;102.555.232-01;jose@gmail.com;
+Gerente;Marcelo Domingues;149.254.365-21;marcelo@stbank.com;5432;10000.00;0001;
+Gerente;Aline Macedo;158.261.487-01;aline@stbank.com;3211;12000.00;0004;
+Gerente;João Carvalho;001.322.592-12;joao@stbank.com;1243;15000.00;0004;
+Diretor;Diogo Nogueira;544.111.000-02;diogo@stbank.com;20000.00;58794;
+Diretor;Marcela Lopes;123.456.789-10;marcela@stbank.com;20000.00;87592;
+Diretor;Joana Fagundes;321.654.987.11;joana@stbank.com;20000.00;58794;
+Presidente;Luana Silva;789.654.321-22;luana@stbank.com;50000.00;0054321;
+Cliente;123456;123.456.789-10;132@gmail.com
+Corrente;Número da Conta:;0001;123.456.789-10;123;0.0;0.0

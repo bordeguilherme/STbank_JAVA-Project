@@ -1,0 +1,26 @@
+-------------- SAQUE --------------
+CPF: 002.742.017-12
+Conta: 3523456-1
+Valor do saque: R$ 200.0
+Valor da tarifa: R$ 0,10.
+Operação realizada em 17/09/2023 21:47:33
+------------ FIM SAQUE ------------
+
+-------------- DEPÓSITO --------------
+CPF: 002.742.017-12
+Conta: 3523456-1
+Valor do depósito: R$ 150.0
+Valor da tarifa: R$ 0,10.
+Operação realizada em 17/09/2023 21:47:51
+------------ FIM DEPÓSITO ------------
+
+-------------- TRANSFERÊNCIA --------------
+CPF: 002.742.017-12
+Conta: 3523456-1
+Valor da transferência: R$ 300.0
+Valor da tarifa: R$ 0,20.
+CPF do destinatário: 002.742.017-12
+Conta do destinatário: 3523456-1
+Operação realizada em 17/09/2023 21:49:03
+------------ FIM TRANSFERÊNCIA ------------
+
